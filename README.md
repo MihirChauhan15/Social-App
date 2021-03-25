@@ -80,7 +80,7 @@ place to be learn, inspire, and create. Any contributions you make are
 Contact
 -------
 
-Rajat Bansal - [@Email](mihir.chauhan1529@gamil.com) -
+Mihir Chauhan - [@Email](mihir.chauhan1529@gamil.com) -
 [@LinkedIn](https://www.linkedin.com/in/mihir-chauhan-9ab7b21aa/)
 
 Project Link: <https://github.com/MihirChauhan15/Social-App>
