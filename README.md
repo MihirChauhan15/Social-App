@@ -42,7 +42,7 @@ Table Of Contents
 About The Project
 -----------------
 
-SocialApp allows users to post text messsages and view others users's post. Users can also react to other user's post.It also has google sign authentication. MVVM architecture and FirebaseStore was used to build this app. 
+SocialApp allows users to post text messsages and view others users's post. Users can also react to other user's post.It also has google sign in authentication. MVVM architecture and FirebaseStore was used to build this app. 
 
 ### Built With
 
