@@ -57,7 +57,7 @@ SocialApp allows users to post text messsages and view others users's post. User
     <td valign="top" > </td>
     <td valign="middle"><img src="https://github.com/MihirChauhan15/Social-App/blob/main/Screenshot02.jpg" alt="Screenshot02" width="250"></td>
     <td valign="top" > </td>
-    <td valign="middle"><img src="https://github.com/MihirChauhan15/Social-App/blob/main/ScreenShot03.jpg" alt="ScreenShot03" width="250"></td>
+    <td valign="middle"><img src="https://github.com/MihirChauhan15/Social-App/blob/main/ScreenShot03.jpg" alt="Screenshot03" width="250"></td>
   </tr>
  </table>
 
