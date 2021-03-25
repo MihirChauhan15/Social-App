@@ -42,7 +42,7 @@ Table Of Contents
 About The Project
 -----------------
 
-SocialApp allows users to post text messsages and view others users's post. Users can also react to other user's post. MVVM architecture was used to build this app. 
+SocialApp allows users to post text messsages and view others users's post. Users can also react to other user's post.It also has google sign authentication. MVVM architecture and FirebaseStore was used to build this app. 
 
 ### Built With
 
@@ -80,7 +80,7 @@ place to be learn, inspire, and create. Any contributions you make are
 Contact
 -------
 
-Mihir Chauhan - [@Email](mihir.chauhan1529@gamil.com) -
+Mihir Chauhan - [@Email](mihir.chauhan1529@gmail.com) -
 [@LinkedIn](https://www.linkedin.com/in/mihir-chauhan-9ab7b21aa/)
 
 Project Link: <https://github.com/MihirChauhan15/Social-App>
